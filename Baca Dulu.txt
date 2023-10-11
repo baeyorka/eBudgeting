@@ -1,0 +1,18 @@
+Honorarium Panitia Kegiatan - 
+Pada Baris 26 Belum Dimasukkan ke Database Program
+Honorarium Pembantu PPTK - 
+Pada Baris 30 Belum Dimasukkan ke Database Program
+ 
+
+Perhitungan Excel yang dikirimkan salah pada Kotak M.48 yang seharusnya hasil 33.33, bukan 50.00
+dan Juga menagkibatkan N.48 juga salah karna untuk mendapatkan hasil N.48 terkait dengan M.48
+
+
+Perhitungan Excel yang dikirimkan salah pada Kotak S.48 yang seharusnya hasil 33.33, bukan 50.00
+dan Juga menagkibatkan T.48 juga salah karna untuk mendapatkan hasil S.48 terkait dengan T.48
+
+
+Coba Bandingkan 2 file excel yang saya kirimkan : 
+BENAR - Perbaikan Revisi rumus 2015.xlsx --> Sudah saya perbaiki dan sesuai dengan program...
+SALAH - Perbaikan Revisi rumus 2015.xlsx --> File excel yang dikirimkan, tidak sesuai dengan program...
+
